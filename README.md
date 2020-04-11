@@ -1,5 +1,7 @@
 # vue-tutorial-netninja-vuetify
 
+This is a learning repo following [The Net Ninja's Vuetify tutorial playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5). Each concept is added in a new commit.
+
 ## Project setup
 ```
 npm install
