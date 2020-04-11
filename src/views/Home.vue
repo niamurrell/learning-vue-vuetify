@@ -37,7 +37,7 @@
       <v-icon small left>mdi-email</v-icon>
       <span>Email Me</span>
     </v-btn>
-    <v-btn depressed large class="pink white--text">
+    <v-btn depressed large class="primary white--text">
       <span>Email Me</span>
       <v-icon large right>mdi-email</v-icon>
     </v-btn>
