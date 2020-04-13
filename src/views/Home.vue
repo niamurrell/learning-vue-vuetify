@@ -13,12 +13,8 @@
       </ul>
     </div>
 
-    <p
-      class="red white--text"
-    >Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque totam corrupti sint veritatis. Voluptas, voluptatum necessitatibus debitis ad, illo obcaecati nisi ipsam accusantium reprehenderit culpa porro, molestias perspiciatis possimus recusandae!</p>
-    <p
-      class="pink lighten-4 red--text text--darken-4"
-    >Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque totam corrupti sint veritatis. Voluptas, voluptatum necessitatibus debitis ad, illo obcaecati nisi ipsam accusantium reprehenderit culpa porro, molestias perspiciatis possimus recusandae!</p>
+    <p class="red white--text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque totam corrupti sint veritatis. Voluptas, voluptatum necessitatibus debitis ad, illo obcaecati nisi ipsam accusantium reprehenderit culpa porro, molestias perspiciatis possimus recusandae!</p>
+    <p class="pink lighten-4 red--text text--darken-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque totam corrupti sint veritatis. Voluptas, voluptatum necessitatibus debitis ad, illo obcaecati nisi ipsam accusantium reprehenderit culpa porro, molestias perspiciatis possimus recusandae!</p>
     <h1 class="display-4">Massive Display</h1>
     <h1 class="display-1">Smaller Massive Display</h1>
     <h1>Normal Display</h1>
@@ -51,7 +47,7 @@
 // @ is an alias to /src
 
 export default {
-  name: "Home",
-  components: {}
+  name: 'Home',
+  components: {},
 };
 </script>
